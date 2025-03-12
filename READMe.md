@@ -1,7 +1,7 @@
 # ISO Burner (Linux Only)
 A modern GUI application to easily burn ISO files to USB drives on Linux.
 
-![screenshot](ISO.png)
+![screenshot](ISOBurner.png)
 
 A simple Python application for burning ISO files to USB drives using a graphical interface built with Tkinter. This tool supports only Linux systems and allows users to easily create bootable USB drives from ISO images.
 
