@@ -72,6 +72,14 @@ A simple Python application for burning ISO files to USB drives using a graphica
 
 - Select your USB device and ISO file, and then click "Burn" to start the process.
 
+- OR
+
+- Go to the dist dir, and run the executable
+```bash
+./ISOBurnerApp
+
+```
+
 ## Notes
 
 - The application assumes you are running it on a Linux-based system.
