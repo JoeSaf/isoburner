@@ -88,4 +88,4 @@ A simple Python application for burning ISO files to USB drives using a graphica
 - This application is designed for Linux systems and is currently not compatible with macOS or Windows.
 
 ## Creating a release
- - Read here for guidelines on how to create a release to this project: [CreatingARelease.md]
+ - Read here for guidelines on how to create a release to this project: [CreatingARelease](/CreatingARelease.md)
