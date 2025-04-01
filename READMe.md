@@ -76,7 +76,7 @@ A simple Python application for burning ISO files to USB drives using a graphica
 
 - Go to the dist dir, and run the executable
 ```bash
-./ISOBurnerApp
+./ISOBurnerApp_vX
 
 ```
 
@@ -87,3 +87,5 @@ A simple Python application for burning ISO files to USB drives using a graphica
 - If you are not running as root, you will be prompted for the root password.
 - This application is designed for Linux systems and is currently not compatible with macOS or Windows.
 
+## Creating a release
+ - Read here for guidelines on how to create a release to this project: [CreatingARelease.md]
